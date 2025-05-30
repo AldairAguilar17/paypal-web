@@ -1,0 +1,7 @@
+{
+  "name": "generateFile",
+  "version": "1.0.0",
+  "dependencies": {
+    "@azure/storage-blob": "^12.8.0"
+  }
+}
